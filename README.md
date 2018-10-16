@@ -1,0 +1,2 @@
+# CSI
+Components Storage Indicator
